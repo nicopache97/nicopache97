@@ -53,6 +53,8 @@ I am a young professional passionate about technology and collaborative work to 
 
 ### 💼 Experience
 - **Prompt Engineer** @ Tecnom (Oct 2025 - Present)
+  - Working on **Core AI Architecture** and **Prompt Development** for enterprise clients.
+  - Development in private repositories focusing on scalable agentic solutions.
 - **Agentic AI Developer JR** @ Tecnom (May 2025 - Oct 2025)
 
 <br>
