@@ -24,6 +24,8 @@ I am a young professional passionate about technology and collaborative work to 
 
 <p align="left">
   <!-- AI & Data -->
+  <a href="https://antigravity.google/" target="_blank" rel="noreferrer"> <img src="https://antigravity.google/assets/image/antigravity-logo.svg" alt="antigravity" width="40" height="40"/> </a>
+  <a href="https://notebooklm.google/" target="_blank" rel="noreferrer"> <img src="https://notebooklm.google/_/static/branding/v4/light_mode/favicon/favicon.svg" alt="notebooklm" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" height="40" />
