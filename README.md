@@ -53,13 +53,12 @@ I am a young professional passionate about technology and collaborative work to 
 
 ### 💼 Experience
 - **Prompt Engineer** @ Tecnom (Oct 2025 - Present)
-  - Working on **Core AI Architecture** and **Prompt Development** for enterprise clients.
-  - Development in private repositories focusing on scalable agentic solutions.
 - **Agentic AI Developer JR** @ Tecnom (May 2025 - Oct 2025)
 
 <br>
 
 ### ⚡ Projects
+- ***Agentic AI Core (Private Projects):** RAG, Tool integration, and custom prompt engineering/debugging for clients.*
 - **WisperIA IoT Voice Decoder**: Custom Alexa with offline voice decoding using Whisper AI and ESP8266.
 - **Rental Recommendation System**: FastAPI + Python system to match roommates based on compatibility.
 - **Image Conversation Indicators**: NextJS + OpenAI API system for analyzing image-based conversations.
@@ -67,8 +66,8 @@ I am a young professional passionate about technology and collaborative work to 
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicopache97&show_icons=true&locale=en&layout=compact" alt="nicopache97" /></p>
+<p><img align="left" src="https://trophy.ryglcloud.netp/api/top-langs?username=nicopache97&show_icons=true&locale=en&layout=compact" alt="nicopache97" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicopache97&show_icons=true&locale=en" alt="nicopache97" /></p>
+<p>&nbsp;<img align="center" src="https://trophy.ryglcloud.netp/api?username=nicopache97&show_icons=true&locale=en" alt="nicopache97" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicopache97&" alt="nicopache97" /></p>
